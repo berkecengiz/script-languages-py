@@ -1,4 +1,13 @@
 /index.html 200 343 2
-/delete/product/3 404 0 1
+/get/productid/3 404 0 1
 /get/products/4 200 43434 6
-/add/products/a2w 500 0 2
+/get/films/tv.html 500 5 10
+/get/films/movies.php 505 3 8
+/food/cuisine/turkish.html 205 34253 9
+/food/ingr/onion.php 201 1351 8
+/movies/dirs/tarantino.html 400 12 4
+/movies/film/django.php 523 9 5
+/food/cuisine/korean.html 234 23632 11
+/country/city/wroclaw.html 523 337746 7
+/country/city/krakow.html 523 3 7222 231 59320 3 6
+/food/videos/nsfw/ 200 342394 3 24
