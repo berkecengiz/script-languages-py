@@ -1,2 +1,3 @@
-# Scripting Languages Assigments
-Python/Script Languages
+# Scripting Languages 
+
+Python scripting examples, made for university assigments.
