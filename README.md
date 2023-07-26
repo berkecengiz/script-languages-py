@@ -1,3 +1,3 @@
 # Scripting Languages 
 
-Python scripting examples, made for university assigments.
+Basic scripting in Python. Assigments completed as part of University course.
